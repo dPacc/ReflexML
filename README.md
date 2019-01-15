@@ -1,5 +1,6 @@
 # Reflex ML
 > A tool to automate your Machine Learning
+![](Reflex.png)
 
 ## Motivation
 The typical Machine Learning workflow is as follows:
